@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mromero1591/node-2-mini/issues"
   },
-  "homepage": "https://github.com/mromero1591/node-2-mini#readme"
+  "homepage": "https://github.com/mromero1591/node-2-mini#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
